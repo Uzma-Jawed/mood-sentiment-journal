@@ -1,0 +1,37 @@
+[
+    {
+        "date": "2025-06-12",
+        "text": "love",
+        "mood": "Happy"
+    },
+    {
+        "date": "2025-06-12",
+        "text": "anxious",
+        "mood": "Sad"
+    },
+    {
+        "date": "2025-06-12",
+        "text": "meh",
+        "mood": "Neutral"
+    },
+    {
+        "date": "2025-06-12",
+        "text": "cool",
+        "mood": "Happy"
+    },
+    {
+        "date": "2025-06-12",
+        "text": "depressed",
+        "mood": "Sad"
+    },
+    {
+        "date": "2025-06-12",
+        "text": "calm",
+        "mood": "Neutral"
+    },
+    {
+        "date": "2025-06-12",
+        "text": "fine",
+        "mood": "Neutral"
+    }
+]
