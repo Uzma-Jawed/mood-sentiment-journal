@@ -28,3 +28,13 @@ Follow my journey into AI, coding, and creativity 🌸
    `python Mood&Sentiment.py`
 
 ---
+
+### ✨ Credits
+
+This project — **Mood Journal & Sentiment Tracker** — was originally created by **Uzma Jawed**.
+
+- 🔗 GitHub: [Uzma-Jawed](https://github.com/Uzma-Jawed)
+- 🔗 LinkedIn: [Uzma Jawed](https://pk.linkedin.com/in/uzma-jawed-21684728b)
+- 📅 First Published: June 12, 2025
+
+Please respect originality. Feel free to fork or build upon this project **with proper attribution**.
